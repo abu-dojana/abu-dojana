@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=abu-dojana&color=green)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abu-dojana)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Dojana's GitHub stats](https://github-readme-stats.vercel.app/api?username=abu-dojana&show=reviews&show_icons=true&theme=dark)
