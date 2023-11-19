@@ -1,6 +1,5 @@
 Master Playlist:
-<a>https://youtube.com/playlist?list=PLcP2JsjBFdeOHZb0A5Iz1zsSw9-jkpxzh&si=nsxRxDzTnTsEL0A0 </a>
-============================================================================================
+https://youtube.com/playlist?list=PLcP2JsjBFdeOHZb0A5Iz1zsSw9-jkpxzh&si=nsxRxDzTnTsEL0A0 
 
 CSE 2200 Software Development Lab:
 https://youtube.com/playlist?list=PLcP2JsjBFdeMSEuZzCq5g6EDCoASMf3_m&si=E_9G2wGnjXiwZVIh
